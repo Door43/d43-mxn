@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxn:home|Door43 (mxn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxn|d43-mxn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxn/archive/master.zip|d43-mxn.zip]]
+
+**Recent Changes**
+{{changes>ns = mxn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxn|Ethnologue data]]
+
